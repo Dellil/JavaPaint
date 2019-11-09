@@ -8,6 +8,6 @@ I made a GUI.
 - The kind of pen
 - Erase the screen
 - Control the Pen thickness
-- Change a color on the pen.
+- Change the Pen color
 
 ![zz](https://user-images.githubusercontent.com/42995061/68526313-ca3aaf80-031d-11ea-89d3-e819788e5aff.png)
